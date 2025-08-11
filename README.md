@@ -34,5 +34,5 @@ The Jio Cinema Clone is a web-based application developed to replicate the user 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Ravi192003Raj/JioCinema_Clone
-cd jio-cinema-clone
+git clone https://github.com/Shreya260303/Jio-Cinema-Clone
+cd Jio-Cinema-Clone
